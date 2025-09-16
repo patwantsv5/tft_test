@@ -1,0 +1,7 @@
+result_tdf.csv
+train_df.csv
+val_df.csv
+test_study.pkl
+lightning_logs
+logs_csv
+optuna_test
