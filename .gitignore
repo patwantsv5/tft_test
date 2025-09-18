@@ -5,3 +5,5 @@ test_study.pkl
 lightning_logs
 logs_csv
 optuna_test
+Balls.csv
+Bduck.csv
